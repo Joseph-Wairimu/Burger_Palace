@@ -1,3 +1,5 @@
+
+
 .inline{
     padding-left: 0 10px;
 }
@@ -13,4 +15,42 @@
 
 
 display: inline;
+}
+
+div.one{
+    overflow: visible;
+    width: 150px;
+    border: 30cm;
+}
+
+
+img.description{ 
+    width: 150px;
+    float: left;
+
+
+}.now{
+    text-align: center;
+}
+span{
+
+    color: yellow;
+}
+.nive{
+    display: inline-block;
+
+
+}
+#mimi{
+    float: right;
+    width: 150px;
+    position: relative;
+   
+}
+#mmi{
+
+    float: right;
+    width: 150px;
+    position: absolute;
+    
 }
