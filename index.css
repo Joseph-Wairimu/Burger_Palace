@@ -18,46 +18,61 @@ display: inline;
 }
 
 div.one{
-    overflow: visible;
+    height: 60%;
+    box-shadow: 0 4px 2px 5px #d1e2da;
+    width: 30%;
+    transition: 0.3px;
+    margin: 15px;
+    border-radius: 20px;
+    max-width: 50%; 
+    text-align:  center;
+    
+}
+.description{
+
     width: 150px;
-    border: 30cm;
 }
 
 
-img.description{ 
-    width: 150px;
-    float: left;
-
-
-}.now{
+.now{
     text-align: center;
 }
 span{
 
     color: yellow;
 }
-div.nive{
-    display: inline-block;
-
-
+.nive{
+    display: flex;
+    justify-content: center;
+    margin: 7px;  
 }
-#mimi{
+.sasa{
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.mimi{
     float: right;
     width: 150px;
     position: relative;
    
 }
-#mmi{
+.mmi{
 
     float: right;
     width: 150px;
     position: absolute;
     
 }
-.yea{
-    background: color red ;
+.yeah{
+    background-color: #e1ebe6;
+    height: 300px;
 }
 .hey{
 
     background-color: yellow;
+    height: 450px;
 }
