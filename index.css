@@ -74,10 +74,15 @@ span{
 }
 .hey{
 
-    background-color: yellow;
+    background-color: #f6b400;
     height: 450px;
 }
 #tree{
 
     color: brown ;
+}
+.mama{
+
+    background-color:#e1ebe6 ;
+    height: 400px;
 }
