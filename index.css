@@ -21,11 +21,13 @@ div.one{
     height: 60%;
     box-shadow: 0 4px 2px 5px #d1e2da;
     width: 30%;
-    transition: 0.3px;
+    transition: 2px;
     margin: 15px;
     border-radius: 20px;
     max-width: 50%; 
     text-align:  center;
+    
+    
     
 }
 .description{
@@ -47,11 +49,45 @@ span{
     justify-content: center;
     margin: 7px;  
 }
-.sasa{
 
+.big{
+    height: 20rem;
+    box-shadow: 0px 1px 2px 4px #d1e2da;
+    width: 26%;
+    transition: 0.3px;
+    margin: 15px;
+    border-radius: 20px;
+    max-width: 50%; 
+    text-align:  center;
+    
+}
+.smoke{
+    height: 20rem;
+    box-shadow: 0 1px 2px 4px #d1e2da;
+    width: 30%;
+    transition: 0.3px;
+    margin: 15px;
+    border-radius: 20px;
+    max-width: 50%; 
+    text-align:  center;
+    
+
+}
+.sasa{
+    padding: o 10px;
     display: flex;
     justify-content: center;
     
+}
+#sisi{
+    color: brown;
+}
+div.mama{
+    display: flex;
+    justify-content: center;
+    margin: 7px;  
+
+
 }
 
 
@@ -64,11 +100,11 @@ span{
 .mmi{
 
     float: right;
+    padding: 2rem 0rem;
     width: 150px;
-    position: absolute;
-    
+
 }
-.yeah{
+.yea{
     background-color: #e1ebe6;
     height: 300px;
 }
