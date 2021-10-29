@@ -36,7 +36,7 @@ span{
 
     color: yellow;
 }
-.nive{
+div.nive{
     display: inline-block;
 
 
@@ -53,4 +53,11 @@ span{
     width: 150px;
     position: absolute;
     
+}
+.yea{
+    background: color red ;
+}
+.hey{
+
+    background-color: yellow;
 }
