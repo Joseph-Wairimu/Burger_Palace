@@ -36,6 +36,7 @@ div.one{
 
 .now{
     text-align: center;
+    text-decoration: underline rgb(255, 115, 0) 6px;
 }
 span{
 
@@ -75,4 +76,8 @@ span{
 
     background-color: yellow;
     height: 450px;
+}
+#tree{
+
+    color: brown ;
 }
