@@ -1,5 +1,10 @@
-.synopsis{
 
-    height: 100px;
+.min{
+    float: right;
+    width: 150px;
+    position: relative;
+    
 }
-h2{ text-align: left;}
+.new{
+    margin-left: 10px;
+}
