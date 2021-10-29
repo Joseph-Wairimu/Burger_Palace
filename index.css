@@ -1,10 +1,16 @@
-
+.inline{
+    padding-left: 0 10px;
+}
 .min{
     float: right;
     width: 150px;
     position: relative;
-    
+
 }
 .new{
-    margin-left: 10px;
+    margin-left: 10px;}
+.dive{
+
+
+display: inline;
 }
