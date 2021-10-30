@@ -112,18 +112,12 @@ span{
     float: right;
     width: 150px;
     position: relative;
-   
+    
 }
-.mmi{
 
-    float: right;
-
-    width: 150px;
-
-}
 .yea{
-    background-color: #e1ebe6;
-    height: 300px;
+    background-color: #f7f7f7;
+    height: 400px;
 }
 .hey{
 
@@ -162,18 +156,7 @@ li a:hover{
     background-color: #d1e2da;
 }
 
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 12%;
-    background-color: white;
-    border-radius: .8rem;
-    height: 30%;
-    margin: 2rem;
-  }
-  .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-  }
+
   .container {
     padding: 2px 16px;
     border-radius: 1rem;
@@ -233,12 +216,7 @@ input{
     float: right;
    padding: 0 0 0 5rem;
 }
-.avatar{
-    position: absolute;
-    right: 10px;
-    width: 300px;
-    padding: 10px;
-}
+
 .icons{
 text-align: center;
 position: relative;
@@ -252,3 +230,25 @@ top: -35px;
     float: left;
     margin: 20px 55px;
 }
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   .logo{
+      display: flex;
+      width: 10px;
+      margin: 60px;
+
+   }
+   .phone{
+       width: 320px;
+       float: right;
+       height: 300px;
+       top: -220px;
+      position: relative;
+   }
+   .store{
+  margin: 0 5px;
+
+   }
