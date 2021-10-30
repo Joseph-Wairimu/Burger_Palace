@@ -205,3 +205,19 @@ input{
 .move{
     float: right;
 }
+.color{
+    background-color: #e1ebe6;
+    height: 300px;
+}
+#add{
+    float: right; 
+    padding-right: 10px;
+    
+    
+}
+
+.align{
+
+    display: flex;
+}
+
