@@ -1,19 +1,7 @@
 
-
 .inline{
     padding-left: 0 10px;
-    background-image: conic-gradient(from 40deg, #F6B400, #fff);
-
-  
-    
-    
-
-    
-    
-
-   
-    
-    
+    background-image: conic-gradient(from 40deg, #F6B400, #fff); 
 }
 .btn{
     background-color: #f6b400;
@@ -23,11 +11,6 @@
     width: 6.9rem;
     color: white;
     height: 3rem;
-    
-
- 
-
- 
 }
 .min{
     float: right;
@@ -51,7 +34,6 @@ div.one{
     transition: 2px;
     margin: 15px;
     border-radius: 20px;
-    max-width: 50%; 
     text-align:  center;
     
     
@@ -78,25 +60,25 @@ span{
 }
 
 .big{
-    height: 20rem;
+    height: 50%;
     box-shadow: 0px 1px 2px 4px #d1e2da;
     width: 26%;
     transition: 0.3px;
     margin: 15px;
     border-radius: 20px;
-    max-width: 50%; 
-    text-align:  center;
+    
+
     
 }
 .smoke{
-    height: 20rem;
+    height: 69%;
     box-shadow: 0 1px 2px 4px #d1e2da;
     width: 30%;
     transition: 0.3px;
     margin: 15px;
     border-radius: 20px;
-    max-width: 50%; 
-    text-align:  center;
+    
+    
     
 
 }
@@ -109,15 +91,14 @@ span{
 #sisi{
     color: brown;
 }
-div.mama{
+#mama{
     display: flex;
-    justify-content: center;
-    margin: 7px;  
 
-
+    background-color:#e1ebe6 ;
+    height: 300px;
+    align-items: center;
+    
 }
-
-
 .mimi{
     float: right;
     width: 150px;
@@ -127,7 +108,7 @@ div.mama{
 .mmi{
 
     float: right;
-    padding: 2rem 0rem;
+
     width: 150px;
 
 }
@@ -144,13 +125,6 @@ div.mama{
 
     color: brown ;
 }
-.mama{
-
-    background-color:#e1ebe6 ;
-    height: 400px;
-}
-
-
 ul{
     list-style: none;
     margin: 0;
@@ -190,7 +164,11 @@ li a:hover{
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 40%;
+    width: 12%;
+    background-color: white;
+    border-radius: .8rem;
+    height: 30%;
+    margin: 2rem;
   }
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
@@ -199,3 +177,31 @@ li a:hover{
     padding: 2px 16px;
     border-radius: 1rem;
   }
+#flex{
+display: flex;
+
+}
+div.center{
+
+text-align: center;
+}
+.display{
+
+    display: inline;
+    
+}
+.right{
+
+    float: right;
+}
+.subs{
+    background-color: #F6B400;
+    height: 1.7rem;
+}
+
+input{
+    height: 1.7rem;
+}
+.move{
+    float: right;
+}
