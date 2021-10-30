@@ -220,4 +220,20 @@ input{
 
     display: flex;
 }
-
+.foot{
+    position: relative;
+    top: -60px;
+}
+    
+.fin{
+    position: relative;
+    top: -165px;
+    float: right;
+   padding: 0 0 0 5rem;
+}
+.avatar{
+    position: absolute;
+    right: 10px;
+    width: 300px;
+    padding: 10px;
+}
