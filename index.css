@@ -104,15 +104,22 @@ span{
     display: flex;
 
     background-color:#e1ebe6 ;
-    height: 300px;
+    height: 500px;
     align-items: center;
     
 }
 .mimi{
     float: right;
-    width: 150px;
+    width: 300px;
     position: relative;
+    bottom: 120px;
     
+}
+.make{
+    width: 50px;
+    align-items: center;
+    display: flex;
+    position: relative;
 }
 
 .yea{
