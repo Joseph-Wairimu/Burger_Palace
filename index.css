@@ -99,6 +99,7 @@ span{
 }
 #sisi{
     color: brown;
+    text-align: center;
 }
 #mama{
     display: flex;
@@ -114,14 +115,15 @@ span{
     position: relative;
     bottom: 120px;
     
+    
 }
 .make{
-    width: 50px;
-    align-items: center;
-    display: flex;
-    position: relative;
+    right: 500px;
 }
-
+.cart{
+    width: 60px;
+    float: right;
+}
 .yea{
     background-color: #f7f7f7;
     height: 400px;
