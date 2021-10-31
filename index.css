@@ -180,9 +180,9 @@ display: flex;
     margin: 0px;
       display: inline-block;
 }
+
 items{
-  vertical-align: top;
-  position: relative;
+  display: block;
 }
 .right{
 
