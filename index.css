@@ -3,7 +3,8 @@ body{
 }
 .inline{
     padding-left: 0 10px;
-    background-image: conic-gradient(from 40deg, #F6B400, #fff); 
+    background-color: #fbc130;
+    background-image: linear-gradient(112deg, rgb(255, 255, 255)50%, #fbc130 0%) 
 }
 .btn{
     background-color: #f6b400;
@@ -253,10 +254,10 @@ top: -35px;
 
    }
    .phone{
-       width: 320px;
+       width: 550px;
        float: right;
-       height: 300px;
-       top: -220px;
+       height: 400px;
+       top: -300px;
       position: relative;
    }
    .store{
