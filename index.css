@@ -1,11 +1,6 @@
-.synopsis{
-    padding: 0 2rem;
-    margin: 2rem;
-    width: 1250px;
-    overflow: auto;
-
+body{
+    margin: 20px
 }
-
 .inline{
     padding-left: 0 10px;
     background-image: conic-gradient(from 40deg, #F6B400, #fff); 
@@ -44,6 +39,7 @@ div.one{
     margin: 15px;
     border-radius: 20px;
     text-align:  center;
+    padding: 50px;
     
     
     
@@ -101,6 +97,7 @@ span{
     color: brown;
     text-align: center;
 }
+
 #mama{
     display: flex;
 
@@ -113,7 +110,7 @@ span{
     float: right;
     width: 300px;
     position: relative;
-    bottom: 120px;
+    bottom: 210px;
     
     
 }
@@ -123,6 +120,8 @@ span{
 .cart{
     width: 60px;
     float: right;
+   box-shadow:0 4px 2px 5px #9cb3a8 ; 
+    border-radius: 20px;
 }
 .yea{
     background-color: #f7f7f7;
@@ -174,14 +173,12 @@ li a:hover{
 display: flex;
 
 }
-div.center{
 
-text-align: center;
-}
+
 .display{
+    text-align: center;
+    margin: 0px;
 
-    display: inline;
-    
 }
 .right{
 
@@ -197,7 +194,8 @@ input{
 }
 .move{
     float: right;
-    padding-left: 500px;
+    top: -60px;
+
 }
 .color{
     background-color: #e1ebe6;
@@ -260,4 +258,25 @@ top: -35px;
    .store{
   margin: 0 5px;
 
+   }
+   .dot{
+       height: 25px;
+       width: 25px;
+       background-color: #9cb3a8;
+       border-radius: 50%;
+       display: inline-block;
+       margin: 10px;
+   }
+   .dotie{
+       margin: 10px;
+     height: 25px;
+    width: 25px;
+   background-color: brown;
+    border-radius: 50%;
+    display: inline-block;
+
+
+   }
+   .space{
+       padding: 0 30px;
    }
