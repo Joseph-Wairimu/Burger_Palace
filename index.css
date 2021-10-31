@@ -178,7 +178,11 @@ display: flex;
 .display{
     text-align: center;
     margin: 0px;
-
+      display: inline-block;
+}
+items{
+  vertical-align: top;
+  position: relative;
 }
 .right{
 
